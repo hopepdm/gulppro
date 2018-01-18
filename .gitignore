@@ -1,0 +1,4 @@
+/node_modules/
+/dist/main.min.js
+/dist/style.min.css
+package-lock.json

@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hope_pdm",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-less": "^3.4.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "uglify-js": "^3.3.7"
+  }
+}
